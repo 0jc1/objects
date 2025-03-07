@@ -1,4 +1,4 @@
-local Object = require(script.Parent)
+local Object = require(script.Parent.Object)
 local Debris = game:GetService("Debris")
 
 local Door = {}
