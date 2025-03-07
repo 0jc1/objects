@@ -1,6 +1,4 @@
 
-local actions = game.ReplicatedStorage:WaitForChild("actions")
-
 local Objects = {}
 Objects.__index = Objects
 
